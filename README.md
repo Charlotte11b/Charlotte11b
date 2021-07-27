@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Charlotte11b
-- 👀 I’m interested in using data analytics, neuroscience, digital health and so much more
+- 👀 I’m interested in data analytics, neuroscience, digital health and so much more
 - 🌱 I’m currently learning Python, FreeSurfer and neuroscience.
 - 📫 Reach me charlotteLLiang@gmail.com
