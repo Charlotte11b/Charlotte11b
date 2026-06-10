@@ -9,10 +9,10 @@ Welcome to my GitHub profile! 😊
 - Research 🔬
 - AI in healthcare 🤖
 
-## 🌱 I’m currently learning:
-- Python 🐍
+## 🌱 I’m currently exploring:
+- SLM/LLMs 🐍
 - Neuroimaging 🧠💻
-- Machine Learning 🤖📚
+- Agentic AI 🤖📚
 
 ## 📫 How to reach me:
 - Email: [charlotte.liang@mail.utoronto.ca](mailto:charlotte.liang@mail.utoronto.ca)
@@ -29,6 +29,7 @@ Welcome to my GitHub profile! 😊
 ### 📌 Current Projects:
 - Neuroimaging Data Analysis 🔍
 - Machine Learning Models for Clinical Outcome Prediction 📊
+- LLMs of clinical notes 
 
 ---
 
